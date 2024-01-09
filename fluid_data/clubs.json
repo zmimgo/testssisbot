@@ -175,6 +175,20 @@
     "https://discord.com/channels/938370308807753738/1090929171380846674/1090935855373361232"
    ],
    "created_at": "2023-04-13 19:48:00+01:00"
+  }，
+  {
+   "title": "Creative Space",
+   "description": "Creative Space \u00e4r skolans klubb f\u00f6r design. L\u00e4s mer i klubbens kanal eller klubbens server.",
+   "id": "creativespace",
+   "emoji": null,
+   "role_id": null,
+   "owners_role_id": null,
+   "owners": [],
+   "subscribers": [],
+   "links": [
+    "https://discord.com/channels/938370308807753738/1194010011718930542"
+   ],
+   "created_at": "2024-01-09 00:00:00+01:00"
   }
  ]
 }
